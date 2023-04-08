@@ -4,7 +4,8 @@
   "description": "tugas akhir tak bootcamp cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "npx cypress run -spec 'cypress/e2e/itera-qa/*.cy.js'"
   },
   "repository": {
     "type": "git",
