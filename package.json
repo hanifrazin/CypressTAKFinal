@@ -1,0 +1,23 @@
+{
+  "name": "cypresstakfinal",
+  "version": "1.0.0",
+  "description": "tugas akhir tak bootcamp cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanifrazin/CypressTAKFinal.git"
+  },
+  "author": "Hanif Razin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanifrazin/CypressTAKFinal/issues"
+  },
+  "homepage": "https://github.com/hanifrazin/CypressTAKFinal#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.9.0"
+  }
+}
